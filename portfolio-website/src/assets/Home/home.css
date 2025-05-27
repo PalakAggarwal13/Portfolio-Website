@@ -1,0 +1,178 @@
+body{
+    margin: 0;
+    line-height: normal;
+}
+.vector-icon {
+  	position: absolute;
+  	top: -596px;
+  	left: 717px;
+  	width: 1612.5px;
+  	height: 1496.3px;
+  	object-fit: contain;
+}
+.desktop-1-child {
+  	position: absolute;
+  	top: 197px;
+  	left: 1012px;
+  	width: 488px;
+  	height: 652.5px;
+  	object-fit: cover;
+}
+.desktop-1-item {
+  	position: absolute;
+  	top: 60px;
+  	left: 100px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 100px;
+  	background-color: rgba(198, 170, 88, 0.1);
+  	width: 1300px;
+  	height: 100px;
+}
+.contact {
+  	position: absolute;
+  	top: 101px;
+  	left: 1191px;
+  	letter-spacing: 0.01em;
+  	display: flex;
+  	background: linear-gradient(#45313d, #45313d), linear-gradient(#c6aa58, #c6aa58), #fff;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	align-items: flex-end;
+  	justify-content: center;
+  	width: 130px;
+  	height: 30px;
+}
+.works {
+  	position: absolute;
+  	top: 95px;
+  	left: 851px;
+  	letter-spacing: 0.01em;
+  	display: flex;
+  	background: linear-gradient(#f5f5dc, #f5f5dc), #fff;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	align-items: flex-end;
+  	justify-content: center;
+  	width: 130px;
+  	height: 30px;
+}
+.desktop-1-inner {
+  	position: absolute;
+  	top: 95px;
+  	left: 162px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 100px;
+  	background-color: #6c5952;
+  	width: 130px;
+  	height: 30px;
+}
+.home {
+  	position: absolute;
+  	top: 95px;
+  	left: 187px;
+  	letter-spacing: 0.01em;
+  	display: flex;
+  	background: linear-gradient(#f5f5dc, #f5f5dc), linear-gradient(#c6aa58, #c6aa58), #fff;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	align-items: flex-end;
+  	justify-content: center;
+  	width: 80px;
+  	height: 30px;
+}
+.about {
+  	position: absolute;
+  	top: 95px;
+  	left: 510px;
+  	letter-spacing: 0.01em;
+  	display: flex;
+  	align-items: flex-end;
+  	justify-content: center;
+  	width: 130px;
+  	height: 30px;
+}
+.vector-icon1 {
+  	position: absolute;
+  	top: 523px;
+  	left: -243px;
+  	width: 551.4px;
+  	height: 543.4px;
+  	object-fit: contain;
+}
+.hey {
+  	margin: 0;
+}
+.hey-this-is-container1 {
+  	width: 100%;
+}
+.hey-this-is-container {
+  	position: absolute;
+  	top: 222px;
+  	left: 325px;
+  	font-size: 64px;
+  	letter-spacing: 0.01em;
+  	line-height: 90px;
+  	font-family: 'Darker Grotesque';
+  	background: linear-gradient(rgba(245, 245, 220, 0.5), rgba(245, 245, 220, 0.5)), linear-gradient(#c6aa58, #c6aa58), #fff;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	display: flex;
+  	align-items: flex-end;
+  	width: 500px;
+  	height: 163px;
+}
+.fasten-your-seat-belts-container {
+  	position: absolute;
+  	top: 525px;
+  	left: 246px;
+  	font-size: 64px;
+  	letter-spacing: 0.01em;
+  	line-height: 90px;
+  	font-family: 'Darker Grotesque';
+  	background: linear-gradient(rgba(245, 245, 220, 0.5), rgba(245, 245, 220, 0.5)), linear-gradient(#c6aa58, #c6aa58), #fff;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	display: flex;
+  	align-items: flex-end;
+  	width: 716px;
+  	height: 270px;
+}
+.plane-departure-solid-1-1 {
+  	position: absolute;
+  	top: 321px;
+  	left: 246px;
+  	width: 48px;
+  	height: 44px;
+  	overflow: hidden;
+}
+.palak-aggarwal {
+  	position: absolute;
+  	top: 405px;
+  	left: 236px;
+  	font-size: 96px;
+  	letter-spacing: 0.01em;
+  	line-height: 100px;
+  	font-family: Arizonia;
+  	background: linear-gradient(#f5f5dc, #f5f5dc), linear-gradient(#c6aa58, #c6aa58), #fff;
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	display: flex;
+  	align-items: flex-end;
+  	justify-content: center;
+  	width: 678px;
+  	height: 100px;
+}
+.desktop-1 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #45313d;
+  	border: 1px solid #6c5952;
+  	box-sizing: border-box;
+  	height: 850px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 24px;
+  	color: #f5f5dc;
+  	font-family: 'Josefin Sans';
+}
+
